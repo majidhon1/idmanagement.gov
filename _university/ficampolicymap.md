@@ -118,7 +118,7 @@ The policy map below presents a visual overview of the laws, policies and standa
     </g>
     <g id="n" data-name="FISMA2014">
       <a href="{{site.baseurl}}/laws-policies-standards/fisma-2014/" target="_blank" rel="noopener noreferrer">
-        <rect id="o"  data-name="fismarect" x="235" y="61.5" width="86" height="40" />
+        <rect id="o" class="aocbutton" data-name="fismarect" x="235" y="61.5" width="86" height="40" />
       </a>
      <text transform="translate(244.54 86.3)" class="matrixtext"><tspan x="0" y="0">FISM</tspan><tspan x="28.66" y="0" style="letter-spacing: -.04em;">A</tspan><tspan x="36.88" y="0" xml:space="preserve"> 2014 </tspan></text>
     </g>
